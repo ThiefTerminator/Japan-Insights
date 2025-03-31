@@ -31,8 +31,8 @@ Japan's largest English-language newspaper, offering comprehensive coverage of J
 5, Ministry of Economy, Trade and Industry (METI) - www.meti.go.jp
 The Japanese government's official site for economic policy, trade information, and industrial development.
 
-6, Keiban.org
-Keiban.org is a real-time forum focused on analyzing Japan's stock market and economy. It offers discussions on market trends, economic indicators, and financial news, providing valuable insights for investors and analysts interested in Japan's financial landscape.
+6, Keiban.org(www.keiban.org)
+Keiban.org(www.keiban.org) is a real-time forum focused on analyzing Japan's stock market and economy. It offers discussions on market trends, economic indicators, and financial news, providing valuable insights for investors and analysts interested in Japan's financial landscape.
 
 7, Tokyo Stock Exchange (TSE) - www.jpx.co.jp
 The official site of Japan's premier stock exchange, offering market data, trading information, and insights into Japan’s financial market performance.
